@@ -1,0 +1,25 @@
+{
+    "name": "aleksip/starterkit-tpl-base",
+    "description": "Base StarterKit for .tpl.php templates",
+    "type": "patternlab-starterkit",
+    "license": "GPL-2.0-or-later",
+    "authors": [
+        {
+            "name": "Aleksi Peebles",
+            "email": "aleksi@iki.fi"
+        }
+    ],
+    "require": {
+        "pattern-lab/core": "^2.0.0",
+        "aleksip/patternengine-tpl": "^1.0.0"
+    },
+    "extra": {
+        "patternlab": {
+            "dist": {
+                "sourceDir": [
+                    { "*": "*" }
+                ]
+            }
+        }
+    }
+}
