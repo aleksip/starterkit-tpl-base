@@ -1,6 +1,6 @@
 {
     "name": "aleksip/starterkit-tpl-base",
-    "description": "Base StarterKit for .tpl.php templates",
+    "description": "Base StarterKit for PHPTemplate",
     "type": "patternlab-starterkit",
     "license": "GPL-2.0-or-later",
     "authors": [
