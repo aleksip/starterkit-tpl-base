@@ -1,11 +1,11 @@
-# Base StarterKit for .tpl.php templates
+# Base StarterKit for PHPTemplate
 
-The Base StarterKit for .tpl.php templates is meant to be used as a near-blank starting point for Drupal 7 theme projects in Pattern Lab.
+The Base StarterKit for PHPTemplate is meant to be used as a near-blank starting point for PHPTemplate-based projects in Pattern Lab.
 
 
 ## Requirements
 
-The Base StarterKit for .tpl.php templates requires the following PatternEngine:
+The Base StarterKit for PHPTemplate requires the following PatternEngine:
 
 * `aleksip/patternengine-tpl`: [GitHub](https://github.com/aleksip/patternengine-php-tpl), [Packagist](https://packagist.org/packages/aleksip/patternengine-tpl)
 
